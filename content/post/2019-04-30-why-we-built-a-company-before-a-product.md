@@ -9,7 +9,20 @@ authors:
 draft: true
 
 ---
-Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
+Hi! This is my first post and I'm excited to share with you some of my tips from
+
+While I never considered myself a writer or a blogger, I thought I wanted to share my unique experiences from living in different countries, travelling and so on. 
+
+There are so many blogging platforms out there that you easily could get lost and 
+
+1. Just start 
+
+
+1. Focus on content, not the design
+
+How to set it up for free ( apart from the domain name )
+
+I have tried a few different domain services like Namecheap, Google Domains, Godaddy, and even Wordpress Domains. I highly recommend Namecheap for the pricing and ease of use. There is plenty of documentation and tutorials for you too. 
 
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
@@ -113,15 +126,15 @@ export default props => (
 
 These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
 
----
+***
 
 Hyphens
 
----
+***
 
 Asterisks
 
----
+***
 
 Underscores
 
@@ -139,7 +152,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 1. First ordered list item
 2. Another item
-   ⋅⋅\* Unordered sub-list.
+   ⋅⋅* Unordered sub-list.
 3. Actual numbers don't matter, just that it's a number
    ⋅⋅1. Ordered sub-list
 4. And another item.
@@ -150,8 +163,10 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-- Unordered list can use asterisks
+* Unordered list can use asterisks
+
 
 * Or minuses
 
-- Or pluses
+
+* Or pluses
