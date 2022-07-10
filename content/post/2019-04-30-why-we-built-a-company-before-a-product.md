@@ -4,8 +4,7 @@ date: 2019-04-30
 hero: "/images/hero-6.jpg"
 excerpt: ''
 timeToRead: 3
-authors:
-- Thiago Costa
+authors: []
 draft: true
 
 ---
