@@ -1,5 +1,5 @@
 ---
-timeToRead: 0
+timeToRead: -3
 authors: []
 title: How I started studying Law
 excerpt: ''
